@@ -3,7 +3,7 @@ ___This Tools is Free Enjoy Dear User.___</br>
 <h2>🔻____SCREENSHOT____🔻 </h2>
 <br>
 <p align="center">
-<img src="__scr__//storage/emulated/0/Pictures/Screenshots/Screenshot_20240128-001240.png"/>
+<img src="__scr__/mafiya.png"/>
 </p>
 
 <p align="center"> 
